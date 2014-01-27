@@ -1,0 +1,4 @@
+web1:
+  document_root: web
+  name: simple-zce-exame-simulation
+  php_version: 5.4.14
